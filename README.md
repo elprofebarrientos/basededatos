@@ -1,1 +1,1 @@
-﻿# Proeba Aplicación procedimientos almacenados mysql desde php
+﻿# Prueba Aplicación procedimientos almacenados mysql desde php
